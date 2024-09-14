@@ -16,15 +16,15 @@ module decoder_tb;
 		.d3(d3)
 	);
 	initial begin
-		a = 0; b=0;
+		a=0; b=0;
 		#20;
-    a=0; b=1; 
-    #20;
+    		a=0; b=1; 
+    		#20;
 		a=1; b=0;
 		#20;
 		a=1; b=1;
 		#20;
-    $finish;
+    		$finish;
 	end
       
 endmodule
