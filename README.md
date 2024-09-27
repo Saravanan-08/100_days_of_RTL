@@ -25,3 +25,5 @@ Day 12 - T-FlipFlop
 Day 13 - Jk Flip Flop
 
 Day 14 - 4 bit Ring Counter
+
+Day 15 - SR Latch
