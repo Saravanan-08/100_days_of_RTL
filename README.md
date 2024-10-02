@@ -31,3 +31,5 @@ Day 15 - SR Latch
 Day 16 - JK Latch
 
 Day 17 - D Latch
+
+Day 18 - 4 bit Up-Down Counter
